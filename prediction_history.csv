@@ -1,0 +1,11 @@
+Time,Amount,Payment Method,Failure Reason,Recovery Probability,Priority,Recommended Action,Expected Recovery,Retry Allowed
+31-08-2026 13:07,1000.0,UPI,Insufficient Funds,66.2,MEDIUM,Suggest alternative payment method,,
+31-08-2026 13:52,1000.0,UPI,Insufficient Funds,66.2,MEDIUM,Suggest alternative payment method,662.05,Yes
+31-08-2026 14:21,1000.0,UPI,Insufficient Funds,66.2,MEDIUM,Suggest alternative payment method,662.05,Yes
+31-08-2026 14:25,2000.0,UPI,Network Error,93.74,HIGH,Retry payment immediately,1874.86,Yes
+31-08-2026 14:28,2000.0,Card,Bank Decline,50.92,MEDIUM,Suggest alternative payment method,1018.36,Yes
+31-08-2026 14:30,5000.0,Card,Insufficient Funds,6.24,LOW,Stop repeated retries,312.2,No
+31-08-2026 15:21,1000.0,UPI,Insufficient Funds,66.2,MEDIUM,Suggest alternative payment method,662.05,Yes
+31-08-2026 15:51,1000.0,UPI,Insufficient Funds,66.2,MEDIUM,Suggest alternative payment method,662.05,Yes
+31-08-2026 16:26,1000.0,UPI,Insufficient Funds,66.2,MEDIUM,Suggest alternative payment,662.05,Yes
+01-09-2026 17:09,1000.0,UPI,Insufficient Funds,66.2,MEDIUM,Suggest alternative payment,662.05,Yes
